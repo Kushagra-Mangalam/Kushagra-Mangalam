@@ -44,13 +44,13 @@ Focus   : Clean code. Immersive games. Meaningful software.
 <div align="center">
 
 ### ⌨️ Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css&theme=dark)](https://skillicons.dev)
 
 ### 🛠️ Frameworks & Tools
-[![My Skills](https://skillicons.dev/icons?i=unity,react,nodejs,nextjs,express,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,react,nodejs,express,tailwind&theme=dark)](https://skillicons.dev)
 
 ### 🗄️ Databases & Cloud
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker&theme=dark)](https://skillicons.dev)
 
 ### 💻 Environment
 [![My Skills](https://skillicons.dev/icons?i=vscode,windows,linux,figma&theme=dark)](https://skillicons.dev)
@@ -60,17 +60,6 @@ Focus   : Clean code. Immersive games. Meaningful software.
 ---
 
 ## `> git log --oneline --projects`
-
-```
-PROJECT LOG — ACTIVE & ARCHIVED
-================================
-// HOW TO ADD A PROJECT IMAGE:
-// 1. Add your screenshot/gif to this repo under: assets/projects/
-// 2. Replace the comment block below each project with:
-//    <img src="assets/projects/YOUR-IMAGE.png" width="100%" alt="project preview"/>
-// 3. Commit & push — GitHub renders it automatically ✅
-================================
-```
 
 ---
 
@@ -268,18 +257,8 @@ smart-car.gif
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kushagra-Mangalam&theme=dark&hide_border=true&background=0D0D0D&ring=00FF41&fire=00CC33&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)](https://git.io/streak-stats)
 
 </div>
+-----
 
----
-
-## `> trophy --display`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kushagra-Mangalam&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## `> cat activity_graph.log`
 
