@@ -87,7 +87,7 @@ Detects **21 hand landmarks** via webcam and maps finger gestures to full mouse 
 -->
 
 ```
-<img src="assets/projects/zombielockdown.gif" width="100%" alt="ZombieLockdown Gameplay"/>
+<img src="assets/projects/zombielockdown.gif" width="100%" alt="Hand gesture movement"/>
 ```
 
 </td>
