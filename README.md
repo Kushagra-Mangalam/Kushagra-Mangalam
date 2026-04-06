@@ -1,11 +1,11 @@
 # <p align="center">Hi, Myself Kushagra </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Backend%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Software%20Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=C%2B%2B+Backend+Developer;Building+Real+World+Projects;Web+Extensions+Creator;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=C%2B%2B+Frontend+Developer;Building+Real+World+Projects;Web+Extensions+Creator;Always+Learning+New+Things" />
 </p>
 
 ---
