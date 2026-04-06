@@ -4,7 +4,7 @@
 
 [![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:003300,100:00FF41&height=120&section=header&text=&animation=fadeIn)](https://github.com/Kushagra-Mangalam)
 
-<img src="https://komarev.com/ghpvc/?username=Kushagra-Mangalam&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" alt="visitor badge"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Kushagra-Mangalam&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" alt="visitor badge"/> -->
 
 </div>
 
@@ -39,7 +39,7 @@ Focus   : Clean code. Immersive games. Meaningful software.
 
 ---
 
-## `> cat skills.json`
+## `> Skills.json`
 
 <div align="center">
 
@@ -61,71 +61,195 @@ Focus   : Clean code. Immersive games. Meaningful software.
 
 ## `> git log --oneline --projects`
 
-<div align="center">
-
-### 🧟 Featured Projects
-
-</div>
-
 ```
 PROJECT LOG — ACTIVE & ARCHIVED
 ================================
+// HOW TO ADD A PROJECT IMAGE:
+// 1. Add your screenshot/gif to this repo under: assets/projects/
+// 2. Replace the comment block below each project with:
+//    <img src="assets/projects/YOUR-IMAGE.png" width="100%" alt="project preview"/>
+// 3. Commit & push — GitHub renders it automatically ✅
+================================
 ```
 
-<table align="center">
+---
+
+### `[01]` 🖐️ Hand Gesture Trackpad Controller
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 🧟 [ZombieLockdown](https://github.com/Kushagra-Mangalam/zombielockdown)
-> **Unity 6 · C# · Third-Person Survival**
+**Real-time gesture control — no mouse needed.**
 
-A gritty third/first-person zombie survival game built in Unity 6. Features a fully animated commando character (Mixamo Vanguard), 8-way locomotion, crouch mechanics, and a relentless undead horde.
+Detects **21 hand landmarks** via webcam and maps finger gestures to full mouse control: movement, scrolling, clicking, and volume. Features cursor smoothing via moving average, click debouncing, and an activate/deactivate system using 👍 thumbs up and ✊ fist gestures to prevent accidental inputs.
+
+`Python` `OpenCV` `MediaPipe` `PyAutoGUI` `Pynput`
+
+[![GitHub](https://img.shields.io/badge/View_Repo-%2300FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Kushagra-Mangalam/hand-gesture-trackpad)
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<!-- 📸 PROJECT IMAGE INSTRUCTIONS:
+     Upload a screenshot or GIF to: assets/projects/gesture-trackpad.gif
+     Then replace this comment block with:
+     <img src="assets/projects/gesture-trackpad.gif" width="100%" alt="Hand Gesture Trackpad Demo"/>
+-->
+
+```
+<img src="assets/projects/zombielockdown.gif" width="100%" alt="ZombieLockdown Gameplay"/>
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### `[02]` 🏥 AI-Powered Medical Portal
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**Full-stack platform connecting doctors and patients.**
+
+Integrated an **Ollama-based AI chatbot** for intelligent symptom collection and summarization. Features doctor recommendations, live video consultations, and health record tracking — all in one unified portal.
+
+`Python` `MongoDB` `REST APIs` `Ollama` `LLM`
+
+[![GitHub](https://img.shields.io/badge/View_Repo-%2300FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Kushagra-Mangalam/ai-medical-portal)
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<!-- 📸 PROJECT IMAGE INSTRUCTIONS:
+     Upload a screenshot to: assets/projects/medical-portal.png
+     Then replace this comment block with:
+     <img src="assets/projects/medical-portal.png" width="100%" alt="Medical Portal Preview"/>
+-->
+
+```
+[ NO PREVIEW YET ]
+Upload to:
+assets/projects/
+medical-portal.png
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### `[03]` 🧟 ZombieLockdown
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**Gritty third/first-person zombie survival game in Unity 6.**
+
+Features a fully animated commando character (Mixamo Vanguard) with 8-way locomotion, crouch mechanics, dynamic camera switching, and a relentless undead horde driven by NavMesh AI.
 
 `Unity` `C#` `Mixamo` `NavMesh` `Cinemachine`
 
 [![GitHub](https://img.shields.io/badge/View_Repo-%2300FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Kushagra-Mangalam/zombielockdown)
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top" align="center">
 
-### 🔲 [Project Slot #2](https://github.com/Kushagra-Mangalam)
-> **Coming Soon...**
+<!-- 📸 PROJECT IMAGE INSTRUCTIONS:
+     Upload a screenshot/GIF to: assets/projects/zombielockdown.gif
+     Then replace this comment block with:
+     <img src="assets/projects/zombielockdown.gif" width="100%" alt="ZombieLockdown Gameplay"/>
+-->
 
-Something exciting is cooking in the lab. Check back soon — or watch this repo to get notified when it drops.
-
-`???` `???` `???`
-
-[![GitHub](https://img.shields.io/badge/Stay_Tuned-%23003300?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Kushagra-Mangalam)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔲 [Project Slot #3](https://github.com/Kushagra-Mangalam)
-> **Work in Progress...**
-
-Another project in the pipeline. The terminal is running, the compiler is warm.
-
-`???` `???` `???`
-
-[![GitHub](https://img.shields.io/badge/Loading...-%23003300?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Kushagra-Mangalam)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔲 [Project Slot #4](https://github.com/Kushagra-Mangalam)
-> **Classified 🔒**
-
-Concepts are brewing. Ideas are compiling. ETA: unknown.
-
-`???` `???` `???`
-
-[![GitHub](https://img.shields.io/badge/Classified-%23003300?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Kushagra-Mangalam)
+```
+[ NO PREVIEW YET ]
+Upload to:
+assets/projects/
+zombielockdown.gif
+```
 
 </td>
 </tr>
 </table>
+
+---
+
+### `[04]` 📺 YouTube Chrome Extension
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**Browser extension to enhance the YouTube experience.**
+
+Built custom content handling features and UI interactions using native browser APIs and frontend scripting. Seamlessly integrates into the YouTube interface with zero performance overhead.
+
+`JavaScript` `Chrome Extension APIs` `HTML` `CSS`
+
+[![GitHub](https://img.shields.io/badge/View_Repo-%2300FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Kushagra-Mangalam/youtube-extension)
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<!-- 📸 PROJECT IMAGE INSTRUCTIONS:
+     Upload a screenshot to: assets/projects/yt-extension.png
+     Then replace this comment block with:
+     <img src="assets/projects/yt-extension.png" width="100%" alt="YouTube Extension Preview"/>
+-->
+
+```
+[ NO PREVIEW YET ]
+Upload to:
+assets/projects/
+yt-extension.png
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### `[05]` 🚗 Arduino Smart Car
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**Autonomous smart car with custom control logic.**
+
+Built on Arduino with embedded C++ — handles obstacle detection, automated steering, and hardware-software integration from scratch. A hands-on dive into the world of embedded systems and robotics.
+
+`Arduino` `C++` `Embedded Systems` `Robotics`
+
+[![GitHub](https://img.shields.io/badge/View_Repo-%2300FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Kushagra-Mangalam/arduino-smart-car)
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<!-- 📸 PROJECT IMAGE INSTRUCTIONS:
+     Upload a photo/video GIF to: assets/projects/smart-car.gif
+     Then replace this comment block with:
+     <img src="assets/projects/smart-car.gif" width="100%" alt="Arduino Smart Car"/>
+-->
+
+```
+[ NO PREVIEW YET ]
+Upload to:
+assets/projects/
+smart-car.gif
+```
+
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
@@ -181,7 +305,7 @@ Concepts are brewing. Ideas are compiling. ETA: unknown.
 
 ---
 
-## `> cat fun_facts.txt`
+## `> fun_facts.txt`
 
 ```javascript
 const kushagra = {
