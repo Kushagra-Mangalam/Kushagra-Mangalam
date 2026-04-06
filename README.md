@@ -24,7 +24,7 @@
 ## `> whoami`
 
 ```bash
-$ cat about.txt
+About.txt
 ```
 
 ```
