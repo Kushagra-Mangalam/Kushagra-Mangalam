@@ -80,15 +80,9 @@ Detects **21 hand landmarks** via webcam and maps finger gestures to full mouse 
 </td>
 <td width="45%" valign="top" align="center">
 
-<!-- 📸 PROJECT IMAGE INSTRUCTIONS:
-     Upload a screenshot or GIF to: assets/projects/gesture-trackpad.gif
-     Then replace this comment block with:
-     <img src="assets/projects/gesture-trackpad.gif" width="100%" alt="Hand Gesture Trackpad Demo"/>
--->
 
-```
 <img src="assets/projects/hand_gesture.png" width="100%" alt="Hand gesture movement"/>
-```
+
 
 </td>
 </tr>
