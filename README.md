@@ -58,7 +58,7 @@ Current Goal: Build scalable backend systems
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kushagra-Mangalam&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1"/>
+  <img src="https://raw.githubusercontent.com/Kushagra-Mangalam/Kushagra-Mangalam/main/achievement.png" width="500"/>
 </p>
 
 ---
@@ -66,10 +66,9 @@ Current Goal: Build scalable backend systems
 ## 💼 Live Projects  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushagra-Mangalam&repo=REPO1&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushagra-Mangalam&repo=REPO2&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushagra-Mangalam&repo=message_server&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kushagra-Mangalam&repo=NIRMAAYA&theme=tokyonight&hide_border=true"/>
 </p>
----
 
 ## 📡 Live Dev Activity
 
