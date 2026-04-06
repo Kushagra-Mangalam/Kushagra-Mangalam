@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=C%2B%2B+Frontend+Developer;Building+Real+World+Projects;Web+Extensions+Creator;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Building+Real+World+Projects;Web+Extensions+Creator;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <b style="color:#00F7FF;">Curious to learn everything</b>
 </p>
 
 ---
